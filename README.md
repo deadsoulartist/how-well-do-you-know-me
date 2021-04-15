@@ -12,4 +12,4 @@ RULES
 
 5.  See your score and the highscores, once you finish the game
 
-<a href="https://replit.com/@deadsoulartist/howWellDoYouKnowMe?embed=1&output=1">Click here to play the game</a>
+<a href="https://replit.com/@deadsoulartist/howWellDoYouKnowMe?embed=1&output=1" target="_blank">Click here to play the game</a>
